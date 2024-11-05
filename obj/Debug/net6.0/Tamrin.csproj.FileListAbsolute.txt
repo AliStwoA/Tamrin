@@ -1,0 +1,17 @@
+C:\Users\ali s2a\source\repos\Tamrin\bin\Debug\net6.0\Tamrin.exe
+C:\Users\ali s2a\source\repos\Tamrin\bin\Debug\net6.0\Tamrin.deps.json
+C:\Users\ali s2a\source\repos\Tamrin\bin\Debug\net6.0\Tamrin.runtimeconfig.json
+C:\Users\ali s2a\source\repos\Tamrin\bin\Debug\net6.0\Tamrin.dll
+C:\Users\ali s2a\source\repos\Tamrin\bin\Debug\net6.0\ref\Tamrin.dll
+C:\Users\ali s2a\source\repos\Tamrin\bin\Debug\net6.0\Tamrin.pdb
+C:\Users\ali s2a\source\repos\Tamrin\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ali s2a\source\repos\Tamrin\obj\Debug\net6.0\Tamrin.csproj.AssemblyReference.cache
+C:\Users\ali s2a\source\repos\Tamrin\obj\Debug\net6.0\Tamrin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ali s2a\source\repos\Tamrin\obj\Debug\net6.0\Tamrin.AssemblyInfoInputs.cache
+C:\Users\ali s2a\source\repos\Tamrin\obj\Debug\net6.0\Tamrin.AssemblyInfo.cs
+C:\Users\ali s2a\source\repos\Tamrin\obj\Debug\net6.0\Tamrin.csproj.CoreCompileInputs.cache
+C:\Users\ali s2a\source\repos\Tamrin\obj\Debug\net6.0\Tamrin.csproj.CopyComplete
+C:\Users\ali s2a\source\repos\Tamrin\obj\Debug\net6.0\Tamrin.dll
+C:\Users\ali s2a\source\repos\Tamrin\obj\Debug\net6.0\ref\Tamrin.dll
+C:\Users\ali s2a\source\repos\Tamrin\obj\Debug\net6.0\Tamrin.pdb
+C:\Users\ali s2a\source\repos\Tamrin\obj\Debug\net6.0\Tamrin.genruntimeconfig.cache
